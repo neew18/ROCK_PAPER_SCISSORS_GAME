@@ -9,3 +9,7 @@ The rules of the game are as follows:
 
 If the input from either player is invalid, they lose the round. If both players type in something else than rock, paper or scissors, the result is a tie.
 
+
+# Screenshoot of sample 
+![rock_paper_scissors_game_output](https://user-images.githubusercontent.com/98087868/206851206-1e53978a-73db-490e-8213-816cf54c87a2.png)
+
